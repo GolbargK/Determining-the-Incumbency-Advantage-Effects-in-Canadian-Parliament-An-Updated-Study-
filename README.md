@@ -1,6 +1,6 @@
 # Determining the Incumbency Advantage Effects in Canadian Parliament (An Updated Study)
 
-## Abstract
+## Summary
 I apply a regression discontinuity approach to determine incumbency advantages in the Canadian Parliament, finding that incumbents enjoy a 10.8–13.4% increased probability of winning over non-incumbents. The study distinguishes between breakout years of 1950 and 2011, revealing shifting dynamics in incumbency advantages for the Liberal and Conservative parties.
 
 ## Table of Contents
@@ -37,9 +37,10 @@ For more detailed results, refer to the [full paper](https://github.com/GolbargK
 ## 5. Discussion
 The discussion interprets the results, emphasizing the stronger incumbency effects for both Liberals and Conservatives before 1950. Additionally, it analyzes the notable increase in Liberal incumbency advantage post-2011, contrasting with the diminished significance for Conservatives.
 
-## 6. Future Studies
-The paper suggests future studies could delve into individual parliament analyses, providing a more detailed understanding of how incumbency advantages have evolved over the years.
-
 ## 7. References
-The study references key works in the field, including Kendall and Rekkas (2012) and Lee (2008), establishing a solid foundation for the research.
+This project is mostly based on the following papers:
+
+-[Kendall and Rekkas (2012)](http://dx.doi.org/10.1111/j.15405982.2012.01739.x)
+
+-[Lee (2008)](https://doi.org/10.1016/j.jeconom.2007.05.004)
 
