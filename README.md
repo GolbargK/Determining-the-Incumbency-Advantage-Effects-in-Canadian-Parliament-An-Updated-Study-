@@ -26,10 +26,10 @@ Using a regression discontinuity model, the study estimates incumbency effects o
 The main results are based on the overall incumbency effect, showcasing the probability of winning for Liberals and Conservatives pre-1950, post-1950, pre-2011, and post-2011. Two key visualizations are presented:
 
 ### Key Visualizations
-![Graph 1](link_to_graph1)
+![Graph 1](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/g1.png)
 *Caption: Combined (Liberal and Conservative) probability of winning, all time periods.*
 
-![Graph 2](link_to_graph2)
+![Graph 2](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/g2.png)
 *Caption: Combined (Liberal and Conservative) probability of winning, all time periods.*
 
 For more detailed results, refer to the [full paper](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/Final%20MA%20Paper-%20Golbarg%20Kanani%20Samian.pdf).
