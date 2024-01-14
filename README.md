@@ -32,7 +32,7 @@ The main results are based on the overall incumbency effect, showcasing the prob
 ![Graph 2](link_to_graph2)
 *Caption: Combined (Liberal and Conservative) probability of winning, all time periods.*
 
-For more detailed results, refer to the [full paper]([(https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/Final%20MA%20Paper-%20Golbarg%20Kanani%20Samian.pdf)]).
+For more detailed results, refer to the [full paper][(https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/Final%20MA%20Paper-%20Golbarg%20Kanani%20Samian.pdf)].
 
 ## 5. Discussion
 The discussion interprets the results, emphasizing the stronger incumbency effects for both Liberals and Conservatives before 1950. Additionally, it analyzes the notable increase in Liberal incumbency advantage post-2011, contrasting with the diminished significance for Conservatives.
