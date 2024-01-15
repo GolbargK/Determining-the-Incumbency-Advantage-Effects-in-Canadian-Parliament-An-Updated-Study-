@@ -44,7 +44,8 @@ Dij,t−1 is a dummy variable that takes one when MV is positive. The Greek lett
 For the whole sample, the overall incumbency effect on the probability of winning ranges from 10.8% to 13.4% and is significant at the 99% confidence interval level. According to this finding, incumbent parties are typically 13% more likely to win an election than non-incumbent parties. For a more detailed review of incumbency effect analysis for pre and post 2011 please refer to the [full paper](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/Final%20MA%20Paper-%20Golbarg%20Kanani%20Samian.pdf).
 
 Below is a table of results:
-(https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/Table%201.png)
+
+[Table](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/Table%201.png)
 
 ## 5. Key Visualization
 In the below graph, the results of a local linear regression for a bandwidth of 15% on each side of the threshold are plotted alongside the average likelihood of winning in each 1% bin of the margin of victory in the previous election. The graph combines data from all accessible time periods for Liberals and Conservatives-the main parties to study-. The regression discontinuity approach should produce meaningful results because we observe a distinct discontinuity at the zero margin of victory level.
