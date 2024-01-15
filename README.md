@@ -35,12 +35,16 @@ The basic idea behind regression discontinuity is that individuals just above an
 
 In this study, this treatment is incumbency in previous elections.
 
+The RD model that I will use is:
+Pijt = αi + βiDij,t−1 + γiMVij,t−1 + δiDij,t−1MVij,t−1 + εijt
+Dij,t−1 is a dummy variable that takes one when MV is positive. The Greek letters are also parameters to be estimated. εijt is the error term. Pijt is probability of winning that takes value one when a party is a declared winner in election t and it takes value zero when the party is a loser. When using the whole sample for estimation, the parameter βi would be the overall incumbency effect. The interaction term should also be included in the model so that the functional form can differ between treated and untreated observations.
+
 
 ## 4. Results
 The main results are based on the overall incumbency effect, showcasing the probability of winning for Liberals and Conservatives pre-1950, post-1950, pre-2011, and post-2011. Two key visualizations are presented:
 
 ### Key Visualization
-Below graph
+In the below graph, the results of a local linear regression for a bandwidth of 15% on each side of the threshold are plotted alongside the average likelihood of winning in each 1% bin of the margin of victory in the previous election. The graph combines data from all accessible time periods for Liberals and Conservatives-the main parties to study-. The regression discontinuity approach should produce meaningful results because we observe a distinct discontinuity at the zero margin of victory level.
 
 ![Graph 1](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/g1.png)
 *Caption: Combined (Liberal and Conservative) probability of winning, all time periods.*
