@@ -36,7 +36,9 @@ The basic idea behind regression discontinuity is that individuals just above an
 In this study, this treatment is incumbency in previous elections.
 
 The RD model that I will use is:
+
 Pijt = αi + βiDij,t−1 + γiMVij,t−1 + δiDij,t−1MVij,t−1 + εijt
+
 Dij,t−1 is a dummy variable that takes one when MV is positive. The Greek letters are also parameters to be estimated. εijt is the error term. Pijt is probability of winning that takes value one when a party is a declared winner in election t and it takes value zero when the party is a loser. When using the whole sample for estimation, the parameter βi would be the overall incumbency effect. The interaction term should also be included in the model so that the functional form can differ between treated and untreated observations.
 
 
