@@ -1,5 +1,6 @@
 # Determining the Incumbency Advantage Effects in Canadian Parliament (An Updated Study)
 <div align="justify">
+  
 ## Summary
 I applied a regression discontinuity approach to determine incumbency advantages in the Canadian Parliament, finding that incumbents enjoy a 10.8–13.4% increased probability of winning over non-incumbents. I studied two different analyses depending on two breakout years of 1950 and 2011. I figured out that for the 1950 break out year, Liberals enjoyed a slightly more incumbency advantage than Conservatives for both pre and post 1950. My studies show that for the 2011 breakout year, Conservative party enjoyed a higher incumbency advantage than Liberals before 2011. Moreover, incumbency advantage increased significantly for Liberals after 2011 which they ran three governments out of four governments that spanned 2011 year and thereafter.
 
