@@ -29,6 +29,13 @@ declaredwinner is a dummy variable where it gets 1 if a candidate is elected and
 ## 3. Methodology
 Using a regression discontinuity model, the study estimates incumbency effects on winning probability. The model incorporates polynomial specifications and bandwidth choices to ensure robustness.
 
+Regression discontinuity is a statistical method used to estimate the causal effect of a treatment or intervention by exploiting a naturally occurring threshold or cutoff point. It is particularly useful in situations where individuals or units receive treatment based on a certain score or value of a continuous variable.
+
+The basic idea behind regression discontinuity is that individuals just above and just below a threshold are expected to be similar in all characteristics, except for the treatment they receive due to the threshold. Therefore, any differences observed in outcomes between these two groups can be attributed to the treatment itself.
+
+In this study, this treatment is incumbency in previous elections.
+
+
 ## 4. Results
 The main results are based on the overall incumbency effect, showcasing the probability of winning for Liberals and Conservatives pre-1950, post-1950, pre-2011, and post-2011. Two key visualizations are presented:
 
