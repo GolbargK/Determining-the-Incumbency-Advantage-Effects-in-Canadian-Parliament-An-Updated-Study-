@@ -39,11 +39,11 @@ The RD model that I will use is:
 
 Pijt = αi + βiDij,t−1 + γiMVij,t−1 + δiDij,t−1MVij,t−1 + εijt
 
-Dij,t−1 is a dummy variable that takes one when MV is positive. The Greek letters are also parameters to be estimated. εijt is the error term. Pijt is probability of winning that takes value one when a party is a declared winner in election t and it takes value zero when the party is a loser. When using the whole sample for estimation, the parameter βi would be the overall incumbency effect. The interaction term should also be included in the model so that the functional form can differ between treated and untreated observations.
+Dij,t−1 is a dummy variable that takes one when MV is positive. The Greek letters are also parameters to be estimated. εijt is the error term. Pijt is probability of winning that takes value one when a party is a declared winner in election t and it takes value zero when the party is a loser. When using the whole sample for estimation, the parameter βi would be the overall incumbency effect. The interaction term should also be included in the model so that the functional form can differ between treated and untreated observations. As a normal RD approach, I would estimate the model using two linear models and a cubic and quartic form for margin of victory to test for robustness.
 
 
 ## 4. Results
-The main results are based on the overall incumbency effect, showcasing the probability of winning for Liberals and Conservatives pre-1950, post-1950, pre-2011, and post-2011. Two key visualizations are presented:
+For the whole sample, the overall incumbency effect on the probability of winning ranges from 10.8% to 13.4% and is significant at the 99% confidence interval level. According to this finding, incumbent parties are typically 13% more likely to win an election than non-incumbent parties. For more detailed review on incumbency effect for Liberals only or Conservatives only please refer to the [full paper](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-/blob/main/Final%20MA%20Paper-%20Golbarg%20Kanani%20Samian.pdf).
 
 ### Key Visualization
 In the below graph, the results of a local linear regression for a bandwidth of 15% on each side of the threshold are plotted alongside the average likelihood of winning in each 1% bin of the margin of victory in the previous election. The graph combines data from all accessible time periods for Liberals and Conservatives-the main parties to study-. The regression discontinuity approach should produce meaningful results because we observe a distinct discontinuity at the zero margin of victory level.
