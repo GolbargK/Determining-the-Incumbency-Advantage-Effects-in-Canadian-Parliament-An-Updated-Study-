@@ -8,10 +8,8 @@ I applied a regression discontinuity approach to determine incumbency advantages
 2. [Data](#2-data)
 3. [Methodology](#3-methodology)
 4. [Results](#4-results)
-    - [Key Visualizations](#key-visualizations)
-5. [Discussion](#5-discussion)
-6. [Future Studies](#6-future-studies)
-7. [References](#7-references)
+5. [Key Visualization](#5-key-visualization)
+6. [References](#7-references)
 
 ## 1. Introduction
 There have always been debates around whether incumbent candidates have an advantage in getting elected in subsequent elections. This study aims to measure the incumbency effect on the probability of winning and vote share in the Canadian parliament using a regression discontinuity (RD) approach.
